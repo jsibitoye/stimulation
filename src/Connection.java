@@ -11,7 +11,7 @@ import java.sql.Statement;
  *
  * @author JRee_D
  */
-class Connection {
+class Connection { 
 
     Statement createStatement() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
